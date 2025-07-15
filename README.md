@@ -1,3 +1,3 @@
 # Small-Business-Credit
 
-### **Not Finished**
+### **Not Finished Yet**
